@@ -1,4 +1,4 @@
-# FinanceFlow 📱💸
+# App Cash Flow 📱💸
 
 > Aplicativo nativo para Android desenvolvido em Kotlin para controle e fluxo de caixa pessoal. Trabalho prático desenvolvido para a Especialização em Programação para Dispositivos Móveis da **UTFPR (Universidade Tecnológica Federal do Paraná - Campus Pato Branco)**.
 
