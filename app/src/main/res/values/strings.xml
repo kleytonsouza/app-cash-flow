@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cash Flow</string>
+    <string name="valor_label">Valor (R$)</string>
+    <string name="valor_hint">Ex: 150.00</string>
+    <string name="descricao_label">Descrição</string>
+    <string name="descricao_hint">Ex: Aluguel, Salário</string>
+    <string name="data_label">Data do Lançamento</string>
+    <string name="data_hint">Clique para selecionar</string>
+    <string name="tipo_label">Tipo</string>
+    <string name="receita">Receita (Crédito)</string>
+    <string name="despesa">Despesa (Débito)</string>
+    <string name="bt_salvar">Salvar</string>
+    <string name="bt_excluir">Excluir</string>
+    <string name="bt_listar">Ver Lançamentos</string>
+    <string name="bt_voltar">Voltar</string>
+    <string name="saldo_label">Saldo Total: </string>
+    <string name="valor_invalido">Por favor, digite um valor maior que zero.</string>
+    <string name="descricao_invalida">Por favor, digite uma descrição.</string>
+    <string name="data_invalida">Por favor, selecione a data do lançamento.</string>
+    <string name="salvar_sucesso">Lançamento salvo com sucesso!</string>
+    <string name="excluir_sucesso">Lançamento excluído com sucesso!</string>
+    <string name="excluir_confirmacao">Tem certeza que deseja excluir este lançamento?</string>
+    <string name="extrato_financeiro">Extrato Financeiro</string>
+    <string name="saldo_atual">SALDO ATUAL</string>
+    <string name="r_0_00">R$ 0,00</string>
+    <string name="nenhum_lan_amento_cadastrado">Nenhum lançamento cadastrado.</string>
+    <string name="novo_lan_amento">Novo Lançamento</string>
+    <string name="novo_lancamento">Novo Lançamento</string>
+    <string name="atualizar_lancamento">Atualizar Lançamento</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar_lancamento">Editar Lançamento</string>
+    <string name="icone_de_receita">icone de receita</string>
+</resources>
